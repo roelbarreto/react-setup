@@ -5,6 +5,7 @@
 - npm run lint
 - npm test
 - npm start
+- npm run prettier
 
 ## Features
 
@@ -12,3 +13,8 @@
 - jest
 - typescript
 - eslint
+
+## To-Do
+
+- build
+- structure
