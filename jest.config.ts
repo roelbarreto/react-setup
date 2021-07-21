@@ -3,4 +3,9 @@ export default {
   collectCoverage: true,
   coverageDirectory: 'coverage',
   testEnvironment: 'jsdom',
+  globals: {
+    'ts-jest': {
+      isolatedModules: false,
+    },
+  },
 };
